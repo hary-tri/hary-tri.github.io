@@ -6,3 +6,5 @@ This tutorial focuses mainly on Git and Github as its remote.
 This repository is built step by step in the tutorial.
 
 Belajar Git dan Github dari w3schools.
+
+Coba push branch ke Github.
